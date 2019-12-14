@@ -1,3 +1,6 @@
+# Ahmed Raja
+# Student Database
+
 import sqlite3
 
 class Database:
